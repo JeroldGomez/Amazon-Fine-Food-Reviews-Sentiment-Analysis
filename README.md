@@ -27,4 +27,4 @@ This project aims to perform sentiment analysis on a dataset of Amazon Fine Food
 
 - Distribution of sentiment scores
 - Comparative analysis with VADER
- 
+- Confidence analysis
