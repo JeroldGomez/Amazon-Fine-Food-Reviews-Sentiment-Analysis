@@ -12,8 +12,6 @@ This project aims to perform sentiment analysis on a dataset of Amazon Fine Food
 - Sentiment analysis using the RoBERTa pretrained model.
 - Visualization of sentiment distribution and analysis.
 
-## Installation
-
 ## Usage
 
 ## Results
