@@ -8,7 +8,7 @@ This project aims to perform sentiment analysis on a dataset of Amazon Fine Food
 
 ## Key Components:
 
-- Data Collection: A dataset containing 500 Amazon Fine Food Reviews was gathered for analysis. Each review included information such as star ratings, review text, and sentiment labels.
+- Data Collection: A dataset containing 500 Amazon Fine Food Reviews was gathered for analysis. Each review included information such as star ratings, and review text.
 
 - Sentiment Analysis with VADER: The VADER sentiment analysis tool, known for its rule-based approach, was employed to assess the sentiment of each review. VADER assigned compound scores to quantify sentiment intensity.
 
