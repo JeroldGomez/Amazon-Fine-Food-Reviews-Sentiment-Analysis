@@ -27,12 +27,3 @@ This project aims to perform sentiment analysis on a dataset of Amazon Fine Food
 ## Conclusion:
 
 This sentiment analysis project not only provides valuable insights into customer sentiment within a dataset of Amazon Fine Food Reviews but also showcases the ability to leverage different sentiment analysis techniques. By presenting the results through clear visualizations and drawing insights from them, this project demonstrates a data-driven approach to understanding customer sentiment, which can be applied to various domains and industries.
-
-## Skills Demonstrated:
-
-- Data Collection and Preparation
-- Sentiment Analysis using VADER
-- Sentiment Analysis using RoBERTa Pretrained Model
-- Data Visualization with Seaborn and Matplotlib
-- Data Interpretation and Speculation
-- Natural Language Processing (NLP) Techniques
